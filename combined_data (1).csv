@@ -1,0 +1,553 @@
+Unnamed: 0,iso,name,province,lat,long
+0,BRA,Brazil,,-14.235,-51.9253
+1,BRA,Brazil,Acre,-9.0238,-70.812
+2,BRA,Brazil,Alagoas,-9.5713,-36.782
+3,BRA,Brazil,Amapa,0.902,-52.003
+4,BRA,Brazil,Amazonas,-3.4168,-65.8561
+5,BRA,Brazil,Bahia,-12.5797,-41.7007
+6,BRA,Brazil,Ceara,-5.4984,-39.3206
+7,BRA,Brazil,Distrito Federal,-15.7998,-47.8645
+8,BRA,Brazil,Espirito Santo,-19.1834,-40.3089
+9,BRA,Brazil,Goias,-15.827,-49.8362
+10,BRA,Brazil,Maranhao,-4.9609,-45.2744
+11,BRA,Brazil,Mato Grosso,-12.6819,-56.9211
+12,BRA,Brazil,Mato Grosso do Sul,-20.7722,-54.7852
+13,BRA,Brazil,Minas Gerais,-18.5122,-44.555
+14,BRA,Brazil,Para,-1.9981,-54.9306
+15,BRA,Brazil,Paraiba,-7.24,-36.782
+16,BRA,Brazil,Parana,-25.2521,-52.0215
+17,BRA,Brazil,Pernambuco,-8.8137,-36.9541
+18,BRA,Brazil,Piaui,-7.7183,-42.7289
+19,BRA,Brazil,Rio de Janeiro,-22.9068,-43.1729
+20,BRA,Brazil,Rio Grande do Norte,-5.4026,-36.9541
+21,BRA,Brazil,Rio Grande do Sul,-30.0346,-51.2177
+22,BRA,Brazil,Rondonia,-11.5057,-63.5806
+23,BRA,Brazil,Roraima,-2.7376,-62.0751
+24,BRA,Brazil,Santa Catarina,-27.2423,-50.2189
+25,BRA,Brazil,Sao Paulo,-23.5505,-46.6333
+26,BRA,Brazil,Sergipe,-10.5741,-37.3857
+27,BRA,Brazil,Tocantins,-10.1753,-48.2982
+28,BRA,Brazil,Unknown,,
+0,CHN,China,Anhui,31.8257,117.2264
+1,CHN,China,Beijing,40.1824,116.4142
+2,CHN,China,Chongqing,30.0572,107.874
+3,CHN,China,Fujian,26.0789,117.9874
+4,CHN,China,Gansu,36.0611,103.8343
+5,CHN,China,Guangdong,23.3417,113.4244
+6,CHN,China,Guangxi,23.8298,108.7881
+7,CHN,China,Guizhou,26.8154,106.8748
+8,CHN,China,Hainan,19.1959,109.7453
+9,CHN,China,Hebei,38.0428,114.5149
+10,CHN,China,Heilongjiang,47.862,127.7615
+11,CHN,China,Henan,33.882,113.614
+12,CHN,China,Hong Kong,22.3,114.2
+13,CHN,China,Hong Kong SAR,22.3,114.2
+14,CHN,China,Hubei,30.9756,112.2707
+15,CHN,China,Hunan,27.6104,111.7088
+16,CHN,China,Inner Mongolia,44.0935,113.9448
+17,CHN,China,Jiangsu,32.9711,119.455
+18,CHN,China,Jiangxi,27.614,115.7221
+19,CHN,China,Jilin,43.6661,126.1923
+20,CHN,China,Liaoning,41.2956,122.6085
+21,CHN,China,Macau,22.1667,113.55
+22,CHN,China,Macau SAR,22.1667,113.55
+23,CHN,China,Ningxia,37.2692,106.1655
+24,CHN,China,Qinghai,35.7452,95.9956
+25,CHN,China,Shaanxi,35.1917,108.8701
+26,CHN,China,Shandong,36.3427,118.1498
+27,CHN,China,Shanghai,31.202,121.4491
+28,CHN,China,Shanxi,37.5777,112.2922
+29,CHN,China,Sichuan,30.6171,102.7103
+30,CHN,China,Tianjin,39.3054,117.323
+31,CHN,China,Tibet,31.6927,88.0924
+32,CHN,China,Unknown,,
+33,CHN,China,Xinjiang,41.1129,85.2401
+34,CHN,China,Yunnan,24.974,101.487
+35,CHN,China,Zhejiang,29.1832,120.0934
+0,FRA,France,,47.0,2.0
+1,FRA,France,Fench Guiana,4.0,-53.0
+2,FRA,France,France,46.2276,2.2137
+3,FRA,France,French Guiana,4.0,-53.0
+4,FRA,France,French Polynesia,-17.6797,-149.4068
+5,FRA,France,Guadeloupe,16.25,-61.5833
+6,FRA,France,Martinique,14.6415,-61.0242
+7,FRA,France,Mayotte,-12.8431,45.1383
+8,FRA,France,New Caledonia,-20.9043,165.618
+9,FRA,France,Reunion,-21.1351,55.2471
+10,FRA,France,Saint Barthelemy,17.9,-62.8333
+11,FRA,France,Saint Pierre and Miquelon,46.8852,-56.3159
+12,FRA,France,St Martin,18.0708,-63.0501
+13,FRA,France,Wallis and Futuna,-14.2938,-178.1165
+0,DEU,Germany,,51.1657,10.4515
+1,DEU,Germany,Baden-Wurttemberg,48.6616,9.3501
+2,DEU,Germany,Bavaria,,
+3,DEU,Germany,Bayern,48.7904,11.4979
+4,DEU,Germany,Berlin,52.52,13.405
+5,DEU,Germany,Brandenburg,52.4125,12.5316
+6,DEU,Germany,Bremen,53.0793,8.8017
+7,DEU,Germany,Hamburg,53.5511,9.9937
+8,DEU,Germany,Hessen,50.6521,9.1624
+9,DEU,Germany,Mecklenburg-Vorpommern,53.6127,12.4296
+10,DEU,Germany,Niedersachsen,52.6367,9.8451
+11,DEU,Germany,Nordrhein-Westfalen,51.4332,7.6616
+12,DEU,Germany,Rheinland-Pfalz,50.1183,7.309
+13,DEU,Germany,Saarland,49.3964,7.023
+14,DEU,Germany,Sachsen,51.1045,13.2017
+15,DEU,Germany,Sachsen-Anhalt,51.9503,11.6923
+16,DEU,Germany,Schleswig-Holstein,54.2194,9.6961
+17,DEU,Germany,Thuringen,51.011,10.8453
+18,DEU,Germany,Unknown,,
+0,JPN,Japan,,36.2048,138.2529
+1,JPN,Japan,Aichi,35.035551,137.211621
+2,JPN,Japan,Akita,39.748679,140.408228
+3,JPN,Japan,Aomori,40.781541,140.828896
+4,JPN,Japan,Chiba,35.510141,140.198917
+5,JPN,Japan,Ehime,33.624835,132.856842
+6,JPN,Japan,Fukui,35.846614,136.22465400000002
+7,JPN,Japan,Fukuoka,33.526032,130.666949
+8,JPN,Japan,Fukushima,37.378867,140.223295
+9,JPN,Japan,Gifu,35.778671,137.055925
+10,JPN,Japan,Gunma,36.504479,138.985605
+11,JPN,Japan,Hiroshima,34.605309000000005,132.788719
+12,JPN,Japan,Hokkaido,43.385711,142.552318
+13,JPN,Japan,Hyogo,35.039913,134.828057
+14,JPN,Japan,Ibaraki,36.303588,140.319591
+15,JPN,Japan,Ishikawa,36.769464,136.771027
+16,JPN,Japan,Iwate,39.593287,141.361777
+17,JPN,Japan,Kagawa,34.217292,133.969047
+18,JPN,Japan,Kagoshima,31.009484000000004,130.430665
+19,JPN,Japan,Kanagawa,35.415312,139.338983
+20,JPN,Japan,Kochi,33.422519,133.367307
+21,JPN,Japan,Kumamoto,32.608154,130.74523100000002
+22,JPN,Japan,Kyoto,35.253815,135.443341
+23,JPN,Japan,Mie,34.508018,136.376013
+24,JPN,Japan,Miyagi,38.446859,140.927086
+25,JPN,Japan,Miyazaki,32.193203999999994,131.299374
+26,JPN,Japan,Nagano,36.132134,138.045528
+27,JPN,Japan,Nagasaki,33.235712,129.608033
+28,JPN,Japan,Nara,34.317451,135.871644
+29,JPN,Japan,Niigata,37.521819,138.918647
+30,JPN,Japan,Oita,33.200697,131.43323999999998
+31,JPN,Japan,Okayama,34.89246,133.826252
+32,JPN,Japan,Okinawa,25.768923,126.668016
+33,JPN,Japan,Osaka,34.620965000000005,135.507481
+34,JPN,Japan,Port Quarantine,,
+35,JPN,Japan,Saga,33.286977,130.115738
+36,JPN,Japan,Saitama,35.997101,139.347635
+37,JPN,Japan,Shiga,35.21582700000001,136.138064
+38,JPN,Japan,Shimane,35.07076,132.55406399999998
+39,JPN,Japan,Shizuoka,34.916975,138.40778400000002
+40,JPN,Japan,Tochigi,36.689912,139.819213
+41,JPN,Japan,Tokushima,33.919178,134.242091
+42,JPN,Japan,Tokyo,35.711343,139.446921
+43,JPN,Japan,Tottori,35.359069,133.863619
+44,JPN,Japan,Toyama,36.637464,137.26934599999998
+45,JPN,Japan,Unknown,,
+46,JPN,Japan,Wakayama,33.911879,135.505446
+47,JPN,Japan,Yamagata,38.448396,140.102154
+48,JPN,Japan,Yamaguchi,34.201190000000004,131.573293
+49,JPN,Japan,Yamanashi,35.612364,138.61148899999998
+0,KOR,"Korea, South",,35.9078,127.7669
+0,RUS,Russia,,61.524,105.3188
+1,RUS,Russia,Adygea Republic,44.6939006,40.1520421
+2,RUS,Russia,Altai Krai,52.6932243,82.69314240000001
+3,RUS,Russia,Altai Republic,50.7114101,86.8572186
+4,RUS,Russia,Amur Oblast,52.8032368,128.437295
+5,RUS,Russia,Arkhangelsk Oblast,63.5589686,43.1221646
+6,RUS,Russia,Astrakhan Oblast,47.1878186,47.608851
+7,RUS,Russia,Bashkortostan Republic,54.8573563,57.1439682
+8,RUS,Russia,Belgorod Oblast,50.7080119,37.5837615
+9,RUS,Russia,Bryansk Oblast,52.8873315,33.41585300000001
+10,RUS,Russia,Buryatia Republic,52.7182426,109.492143
+11,RUS,Russia,Chechen Republic,43.39761470000001,45.6985005
+12,RUS,Russia,Chelyabinsk Oblast,54.4223954,61.1865846
+13,RUS,Russia,Chukotka Autonomous Okrug,66.0006475,169.4900869
+14,RUS,Russia,Chuvashia Republic,55.4259922,47.0849429
+15,RUS,Russia,Dagestan Republic,43.05749160000001,47.1332224
+16,RUS,Russia,Ingushetia Republic,43.11542075,45.01713552
+17,RUS,Russia,Irkutsk Oblast,56.6370122,104.719221
+18,RUS,Russia,Ivanovo Oblast,56.9167446,41.43521370000001
+19,RUS,Russia,Jewish Autonomous Okrug,48.57527615,132.66307460000002
+20,RUS,Russia,Kabardino-Balkarian Republic,43.4806048,43.5978976
+21,RUS,Russia,Kaliningrad Oblast,54.7293041,21.1489473
+22,RUS,Russia,Kalmykia Republic,46.2313018,45.3275745
+23,RUS,Russia,Kaluga Oblast,54.4382773,35.5272854
+24,RUS,Russia,Kamchatka Krai,57.1914882,160.03838190000005
+25,RUS,Russia,Karachay-Cherkess Republic,43.7368326,41.7267991
+26,RUS,Russia,Karelia Republic,62.61940309999999,33.4920267
+27,RUS,Russia,Kemerovo Oblast,54.53357809999999,87.342861
+28,RUS,Russia,Khabarovsk Krai,51.6312684,136.121524
+29,RUS,Russia,Khakassia Republic,53.72258845,91.44293627
+30,RUS,Russia,Khanty-Mansi Autonomous Okrug,61.0259025,69.0982628
+31,RUS,Russia,Kirov Oblast,57.9665589,49.4074599
+32,RUS,Russia,Komi Republic,63.9881421,54.3326073
+33,RUS,Russia,Kostroma Oblast,58.424756,44.2533273
+34,RUS,Russia,Krasnodar Krai,45.7684014,39.0261044
+35,RUS,Russia,Krasnoyarsk Krai,63.3233807,97.0979974
+36,RUS,Russia,Kurgan Oblast,55.7655302,64.5632681
+37,RUS,Russia,Kursk Oblast,51.6568453,36.4852695
+38,RUS,Russia,Leningrad Oblast,60.1853296,32.3925325
+39,RUS,Russia,Lipetsk Oblast,52.6935178,39.1122664
+40,RUS,Russia,Magadan Oblast,62.48858785,153.9903764
+41,RUS,Russia,Mari El Republic,56.5767504,47.8817512
+42,RUS,Russia,Mordovia Republic,54.4419829,44.4661144
+43,RUS,Russia,Moscow,55.7504461,37.6174943
+44,RUS,Russia,Moscow Oblast,55.50431579999999,38.0353929
+45,RUS,Russia,Murmansk Oblast,68.00004179999999,33.9999151
+46,RUS,Russia,Nenets Autonomous Okrug,68.27557185,57.1686375
+47,RUS,Russia,Nizhny Novgorod Oblast,55.47180329999999,44.0911594
+48,RUS,Russia,North Ossetia - Alania Republic,42.79336110000001,44.6324493
+49,RUS,Russia,Novgorod Oblast,58.2843833,32.5169757
+50,RUS,Russia,Novosibirsk Oblast,54.9720169,79.48139240000002
+51,RUS,Russia,Omsk Oblast,56.09352629999999,73.5099936
+52,RUS,Russia,Orel Oblast,52.96854329999999,36.0692477
+53,RUS,Russia,Orenburg Oblast,52.02692620000001,54.7276647
+54,RUS,Russia,Penza Oblast,53.1655415,44.78791810000001
+55,RUS,Russia,Perm Krai,58.5951603,56.3159546
+56,RUS,Russia,Primorsky Krai,45.0819456,134.726645
+57,RUS,Russia,Pskov Oblast,57.5358729,28.8586826
+58,RUS,Russia,Rostov Oblast,47.6222451,40.7957942
+59,RUS,Russia,Ryazan Oblast,54.42267320000001,40.57052460000001
+60,RUS,Russia,Saint Petersburg,59.9606739,30.158655100000004
+61,RUS,Russia,Sakha (Yakutiya) Republic,66.941626,129.642371
+62,RUS,Russia,Sakhalin Oblast,49.7219665,143.448533
+63,RUS,Russia,Samara Oblast,53.2128813,50.8914633
+64,RUS,Russia,Saratov Oblast,51.6520555,46.86319520000001
+65,RUS,Russia,Smolensk Oblast,55.03434960000001,33.0192065
+66,RUS,Russia,Stavropol Krai,44.86325770000001,43.4406913
+67,RUS,Russia,Sverdlovsk Oblast,58.6414755,61.8021546
+68,RUS,Russia,Tambov Oblast,52.9019574,41.3578918
+69,RUS,Russia,Tatarstan Republic,55.7648572,52.43104273
+70,RUS,Russia,Tomsk Oblast,58.6124279,82.04753149999998
+71,RUS,Russia,Tula Oblast,53.9570701,37.3690909
+72,RUS,Russia,Tver Oblast,57.1134475,35.174442799999994
+73,RUS,Russia,Tyumen Oblast,58.8206488,70.36588370000001
+74,RUS,Russia,Tyva Republic,51.4017149,93.8582593
+75,RUS,Russia,Udmurt Republic,57.1961165,52.69598320000001
+76,RUS,Russia,Ulyanovsk Oblast,54.1463177,47.2324921
+77,RUS,Russia,Vladimir Oblast,56.0503336,40.6561633
+78,RUS,Russia,Volgograd Oblast,49.6048339,44.29035820000001
+79,RUS,Russia,Vologda Oblast,60.0391461,43.1215213
+80,RUS,Russia,Voronezh Oblast,50.9800393,40.15065070000001
+81,RUS,Russia,Yamalo-Nenets Autonomous Okrug,67.1471631,74.3415488
+82,RUS,Russia,Yaroslavl Oblast,57.77819760000001,39.0021095
+83,RUS,Russia,Zabaykalsky Krai,52.248521,115.956325
+0,ESP,Spain,,40.4637,-3.7492
+1,ESP,Spain,Andalusia,37.5443,-4.7278
+2,ESP,Spain,Aragon,41.5976,-0.9057
+3,ESP,Spain,Asturias,43.3614,-5.8593
+4,ESP,Spain,Baleares,39.710358,2.995148
+5,ESP,Spain,C. Valenciana,39.484,-0.7533
+6,ESP,Spain,Canarias,28.2916,-16.6291
+7,ESP,Spain,Cantabria,43.1828,-3.9878
+8,ESP,Spain,Castilla - La Mancha,39.2796,-3.0977
+9,ESP,Spain,Castilla y Leon,41.8357,-4.3976
+10,ESP,Spain,Catalonia,41.5912,1.5209
+11,ESP,Spain,Ceuta,35.8894,-5.3213
+12,ESP,Spain,Extremadura,39.4937,-6.0679
+13,ESP,Spain,Galicia,42.5751,-8.1339
+14,ESP,Spain,La Rioja,42.2871,2.5396
+15,ESP,Spain,Madrid,40.4168,-3.7038
+16,ESP,Spain,Melilla,35.2923,-2.9381
+17,ESP,Spain,Murcia,37.9922,-1.1307
+18,ESP,Spain,Navarra,42.6954,-1.6761
+19,ESP,Spain,Pais Vasco,42.9896,-2.6189
+20,ESP,Spain,Unknown,,
+0,USA,US," Norfolk County, MA",42.1767,-71.1449
+1,USA,US,Alabama,32.3182,-86.9023
+2,USA,US,"Alameda County, CA",37.6017,-121.7195
+3,USA,US,Alaska,61.3707,-152.4044
+4,USA,US,American Samoa,-14.271,-170.132
+5,USA,US,Arizona,33.7298,-111.4312
+6,USA,US,Arkansas,34.9697,-92.3731
+7,USA,US,"Ashland, NE",,
+8,USA,US,"Bennington County, VT",43.0279,-73.135
+9,USA,US,"Bergen County, NJ",40.9263,-74.077
+10,USA,US,"Berkeley, CA",37.8715,-122.273
+11,USA,US,"Berkshire County, MA",42.3118,-73.1822
+12,USA,US,"Boston, MA",42.3601,-71.0589
+13,USA,US,"Broward County, FL",26.1901,-80.3659
+14,USA,US,California,36.1162,-119.6816
+15,USA,US,"Carver County, MN",44.8254,-93.7842
+16,USA,US,"Charleston County, SC",32.7957,-79.7848
+17,USA,US,"Charlotte County, FL",26.8946,-81.9098
+18,USA,US,"Chatham County, NC",35.7211,-79.1781
+19,USA,US,"Cherokee County, GA",34.2515,-84.4803
+20,USA,US,Chicago,,
+21,USA,US,"Chicago, IL",41.8781,-87.6298
+22,USA,US,"Clark County, NV",36.0796,-115.094
+23,USA,US,"Clark County, WA",45.7466,-122.5194
+24,USA,US,"Cobb County, GA",33.8999,-84.5641
+25,USA,US,"Collin County, TX",33.1795,-96.493
+26,USA,US,Colorado,39.0598,-105.3111
+27,USA,US,Connecticut,41.5978,-72.7554
+28,USA,US,"Contra Costa County, CA",37.8534,-121.9018
+29,USA,US,"Cook County, IL",41.7377,-87.6976
+30,USA,US,"Davidson County, TN",36.1343,-86.822
+31,USA,US,"Davis County, UT",40.9629,-112.0953
+32,USA,US,Delaware,39.3185,-75.5071
+33,USA,US,"Delaware County, PA",39.9078,-75.3879
+34,USA,US,"Denver County, CO",39.7392,-104.9903
+35,USA,US,Diamond Princess,35.4437,139.638
+36,USA,US,District of Columbia,38.8974,-77.0268
+37,USA,US,"Douglas County, CO",39.2587,-104.9389
+38,USA,US,"Douglas County, NE",41.3148,-96.1951
+39,USA,US,"Douglas County, OR",43.1261,-123.2492
+40,USA,US,"El Paso County, CO",38.9108,-104.4723
+41,USA,US,"Fairfax County, VA",38.9085,-77.2405
+42,USA,US,"Fairfield County, CT",41.256,-73.3709
+43,USA,US,"Fayette County, KY",38.0606,-84.4803
+44,USA,US,Federal Bureau of Prisons,,
+45,USA,US,Florida,27.7663,-81.6868
+46,USA,US,"Floyd County, GA",34.2829,-85.2308
+47,USA,US,"Fort Bend County, TX",29.5693,-95.8143
+48,USA,US,"Fresno County, CA",36.9859,-119.2321
+49,USA,US,"Fulton County, GA",33.8034,-84.3963
+50,USA,US,Georgia,33.0406,-83.6431
+51,USA,US,"Grafton County, NH",43.9088,-71.826
+52,USA,US,Grand Princess,37.6489,-122.6655
+53,USA,US,Grand Princess Cruise Ship,37.6489,-122.6655
+54,USA,US,"Grant County, WA",47.1981,-119.3732
+55,USA,US,Guam,13.4443,144.7937
+56,USA,US,"Harford County, MD",39.5839,-76.3637
+57,USA,US,"Harris County, TX",29.7752,-95.3103
+58,USA,US,"Harrison County, KY",38.4333,-84.3542
+59,USA,US,Hawaii,21.0943,-157.4983
+60,USA,US,"Hendricks County, IN",39.8065,-86.5401
+61,USA,US,"Hillsborough, FL",27.9904,-82.3018
+62,USA,US,"Honolulu County, HI",21.307,-157.8584
+63,USA,US,"Hudson County, NJ",40.7453,-74.0535
+64,USA,US,"Humboldt County, CA",40.745,-123.8695
+65,USA,US,Idaho,44.2405,-114.4788
+66,USA,US,Illinois,40.3495,-88.9861
+67,USA,US,Indiana,39.8494,-86.2583
+68,USA,US,Iowa,42.0115,-93.2105
+69,USA,US,"Jackson County, OR ",42.3345,-122.7647
+70,USA,US,"Jefferson County, KY",38.1938,-85.6435
+71,USA,US,"Jefferson County, WA",47.7425,-123.304
+72,USA,US,"Jefferson Parish, LA",29.6499,-90.1121
+73,USA,US,"Johnson County, IA",41.6699,-91.5984
+74,USA,US,"Johnson County, KS",38.8454,-94.8521
+75,USA,US,Kansas,38.5266,-96.7265
+76,USA,US,Kentucky,37.6681,-84.6701
+77,USA,US,"Kershaw County, SC",34.3672,-80.5883
+78,USA,US,"King County, WA",47.548,-121.9836
+79,USA,US,"Kittitas County, WA",47.175,-120.9319
+80,USA,US,"Klamath County, OR",42.6953,-121.6142
+81,USA,US,"Lackland, TX",,
+82,USA,US,"Lackland, TX (From Diamond Princess)",29.3829,-98.6134
+83,USA,US,"Lee County, FL",26.663,-81.9535
+84,USA,US,"Los Angeles, CA",34.0522,-118.2437
+85,USA,US,Louisiana,31.1695,-91.8678
+86,USA,US,"Madera County, CA",37.2519,-119.6963
+87,USA,US,"Madison, WI",43.0731,-89.4012
+88,USA,US,Maine,44.6939,-69.3819
+89,USA,US,"Manatee County, FL",27.4799,-82.3452
+90,USA,US,"Maricopa County, AZ",33.2918,-112.4291
+91,USA,US,"Marion County, IN",39.8362,-86.1752
+92,USA,US,"Marion County, OR",44.8446,-122.5927
+93,USA,US,Maryland,39.0639,-76.8021
+94,USA,US,Massachusetts,42.2302,-71.5301
+95,USA,US,Michigan,43.3266,-84.5361
+96,USA,US,"Middlesex County, MA",42.4672,-71.2874
+97,USA,US,Minnesota,45.6945,-93.9002
+98,USA,US,Mississippi,32.7416,-89.6787
+99,USA,US,Missouri,38.4561,-92.2884
+100,USA,US,Montana,46.9219,-110.4544
+101,USA,US,"Montgomery County, MD",39.1547,-77.2405
+102,USA,US,"Montgomery County, PA",40.229,-75.3879
+103,USA,US,"Montgomery County, TX",30.3213,-95.4778
+104,USA,US,"Nassau County, NY",40.6546,-73.5594
+105,USA,US,Nebraska,41.1254,-98.2681
+106,USA,US,Nevada,38.3135,-117.0554
+107,USA,US,New Hampshire,43.4525,-71.5639
+108,USA,US,New Jersey,40.2989,-74.521
+109,USA,US,New Mexico,34.8405,-106.2485
+110,USA,US,New York,42.1657,-74.9481
+111,USA,US,"New York City, NY",40.7128,-74.006
+112,USA,US,"New York County, NY",40.7128,-74.006
+113,USA,US,"Norfolk County, MA",42.1767,-71.1449
+114,USA,US,North Carolina,35.6301,-79.8064
+115,USA,US,North Dakota,47.5289,-99.784
+116,USA,US,Northern Mariana Islands,15.0979,145.6739
+117,USA,US,"Norwell County, MA",42.1615,-70.7928
+118,USA,US,Ohio,40.3888,-82.7649
+119,USA,US,"Okaloosa County, FL",30.5773,-86.6611
+120,USA,US,Oklahoma,35.5653,-96.9289
+121,USA,US,"Omaha, NE (From Diamond Princess)",41.2545,-95.9758
+122,USA,US,"Orange County, CA",33.7879,-117.8531
+123,USA,US,"Orange, CA",33.7879,-117.8531
+124,USA,US,Oregon,44.572,-122.0709
+125,USA,US,Pennsylvania,40.5908,-77.2098
+126,USA,US,"Pierce County, WA",47.0676,-122.1295
+127,USA,US,"Pinal County, AZ",32.8162,-111.2845
+128,USA,US,"Placer County, CA",39.0916,-120.8039
+129,USA,US,"Plymouth County, MA",42.1615,-70.7928
+130,USA,US,"Polk County, GA",34.0132,-85.1479
+131,USA,US,"Portland, OR",45.5051,-122.675
+132,USA,US,"Providence County, RI",41.8882,-71.4774
+133,USA,US,"Providence, RI",41.824,-71.4128
+134,USA,US,Puerto Rico,18.2208,-66.5901
+135,USA,US,"Queens County, NY",40.7282,-73.7949
+136,USA,US,"Ramsey County, MN",44.9964,-93.0616
+137,USA,US,Recovered,0.0,0.0
+138,USA,US,Rhode Island,41.6809,-71.5118
+139,USA,US,"Riverside County, CA",33.9533,-117.3961
+140,USA,US,"Rockingham County, NH",42.9931,-71.0498
+141,USA,US,"Rockland County, NY",41.1489,-73.983
+142,USA,US,"Sacramento County, CA",38.4747,-121.3542
+143,USA,US,"San Antonio, TX",29.4241,-98.4936
+144,USA,US,"San Benito, CA",36.5761,-120.9876
+145,USA,US,"San Diego County, CA",32.7157,-117.1611
+146,USA,US,"San Francisco County, CA",37.7749,-122.4194
+147,USA,US,"San Mateo, CA",37.563,-122.3255
+148,USA,US,"Santa Clara County, CA",37.3541,-121.9552
+149,USA,US,"Santa Clara, CA",37.3541,-121.9552
+150,USA,US,"Santa Cruz County, CA",36.9741,-122.0308
+151,USA,US,"Santa Rosa County, FL",30.769,-86.9824
+152,USA,US,"Sarasota, FL",27.3364,-82.5307
+153,USA,US,"Saratoga County, NY",43.0324,-73.936
+154,USA,US,"Seattle, WA",47.6062,-122.3321
+155,USA,US,"Shasta County, CA",40.7909,-121.8474
+156,USA,US,"Shelby County, TN",35.1269,-89.9253
+157,USA,US,"Snohomish County, WA",48.033,-121.8339
+158,USA,US,"Sonoma County, CA",38.578,-122.9888
+159,USA,US,South Carolina,33.8569,-80.945
+160,USA,US,South Dakota,44.2998,-99.4388
+161,USA,US,"Spartanburg County, SC",34.8606,-81.9535
+162,USA,US,"Spokane County, WA",47.6587,-117.4225
+163,USA,US,"St. Louis County, MO",38.6103,-90.4125
+164,USA,US,"Suffolk County, MA",42.3601,-71.0589
+165,USA,US,"Suffolk County, NY",40.9849,-72.6151
+166,USA,US,"Summit County, CO",39.5912,-106.064
+167,USA,US,"Tempe, AZ",33.4255,-111.94
+168,USA,US,Tennessee,35.7478,-86.6923
+169,USA,US,Texas,31.0545,-97.5635
+170,USA,US,"Travis, CA",,
+171,USA,US,"Travis, CA (From Diamond Princess)",38.2721,-121.9399
+172,USA,US,"Tulsa County, OK",36.1593,-95.941
+173,USA,US,"Ulster County, NY",41.8586,-74.3118
+174,USA,US,"Umatilla, OR",45.775,-118.7606
+175,USA,US,Unassigned Location (From Diamond Princess),35.4437,139.638
+176,USA,US,"Unassigned Location, VT",44.3378,-72.7563
+177,USA,US,"Unassigned Location, WA",47.7511,-120.7401
+178,USA,US,United States Virgin Islands,18.3358,-64.8963
+179,USA,US,"Unknown Location, MA",42.4072,-71.3824
+180,USA,US,US,37.0902,-95.7129
+181,USA,US,US Military,,
+182,USA,US,Utah,40.15,-111.8624
+183,USA,US,Vermont,44.0459,-72.7107
+184,USA,US,Veteran Hospitals,,
+185,USA,US,Virgin Islands,18.3358,-64.8963
+186,USA,US,"Virgin Islands, U.S.",18.3358,-64.8963
+187,USA,US,Virginia,37.7693,-78.17
+188,USA,US,"Volusia County, FL",29.028,-81.0755
+189,USA,US,"Wake County, NC",35.8032,-78.5661
+190,USA,US,Washington,47.4009,-121.4905
+191,USA,US,"Washington County, OR",45.547,-123.1386
+192,USA,US,"Washington, D.C.",38.9072,-77.0369
+193,USA,US,"Washoe County, NV",40.5608,-119.6035
+194,USA,US,"Wayne County, PA",41.6739,-75.2479
+195,USA,US,West Virginia,38.4912,-80.9545
+196,USA,US,"Westchester County, NY",41.122,-73.7949
+197,USA,US,"Williamson County, TN",35.9179,-86.8622
+198,USA,US,Wisconsin,44.2685,-89.6165
+199,USA,US,Wuhan Evacuee,0.0,0.0
+200,USA,US,Wyoming,42.756,-107.3025
+201,USA,US,"Yolo County, CA",38.7646,-121.9018
+0,GBR,United Kingdom,,55.0,-3.0
+1,GBR,United Kingdom,Anguilla,18.2206,-63.0686
+2,GBR,United Kingdom,Bermuda,32.3078,-64.7505
+3,GBR,United Kingdom,British Virgin Islands,18.4207,-64.64
+4,GBR,United Kingdom,Cayman Islands,19.3133,-81.2546
+5,GBR,United Kingdom,Channel Islands,49.3723,-2.3644
+6,GBR,United Kingdom,England,52.3555,-1.1743
+7,GBR,United Kingdom,Falkland Islands (Islas Malvinas),-51.7963,-59.5236
+8,GBR,United Kingdom,Falkland Islands (Malvinas),-51.7963,-59.5236
+9,GBR,United Kingdom,Gibraltar,36.1408,-5.3536
+10,GBR,United Kingdom,Guernsey,49.448196,-2.58949
+11,GBR,United Kingdom,Isle of Man,54.2361,-4.5481
+12,GBR,United Kingdom,Jersey,49.2138,-2.1358
+13,GBR,United Kingdom,Montserrat,16.7425,-62.1874
+14,GBR,United Kingdom,Northern Ireland,54.7877,-6.4923
+15,GBR,United Kingdom,Pitcairn Islands,-24.3768,-128.3242
+16,GBR,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",-7.9467,-14.3559
+17,GBR,United Kingdom,Scotland,56.4907,-4.2026
+18,GBR,United Kingdom,Turks and Caicos Islands,21.69400000000001,-71.7979
+19,GBR,United Kingdom,UK,55.3781,-3.436
+20,GBR,United Kingdom,United Kingdom,55.3781,-3.436
+21,GBR,United Kingdom,Unknown,,
+22,GBR,United Kingdom,Wales,52.1307,-3.7837
+0,IND,India,,20.5937,78.9629
+1,IND,India,Andaman and Nicobar Islands,11.225999,92.968178
+2,IND,India,Andhra Pradesh,15.9129,79.74
+3,IND,India,Arunachal Pradesh,27.768456,96.384277
+4,IND,India,Assam,26.357149,92.830441
+5,IND,India,Bihar,25.679658,85.60484
+6,IND,India,Chandigarh,30.733839,76.76827800000002
+7,IND,India,Chhattisgarh,21.264705,82.035366
+8,IND,India,Dadar Nagar Haveli,20.194742,73.080901
+9,IND,India,Dadra and Nagar Haveli and Daman and Diu,20.194742,73.080901
+10,IND,India,Delhi,28.646519,77.10898
+11,IND,India,Goa,15.359682,74.057396
+12,IND,India,Gujarat,22.694884,71.590923
+13,IND,India,Haryana,29.20004,76.332824
+14,IND,India,Himachal Pradesh,31.927213,77.233081
+15,IND,India,Jammu and Kashmir,33.75943,76.612638
+16,IND,India,Jharkhand,23.654536,85.557631
+17,IND,India,Karnataka,14.70518,76.166436
+18,IND,India,Kerala,10.450898,76.405749
+19,IND,India,Ladakh,34.1526,77.5771
+20,IND,India,Lakshadweep,13.6999972,72.18333259999999
+21,IND,India,Madhya Pradesh,23.541513,78.289633
+22,IND,India,Maharashtra,19.449759,76.108221
+23,IND,India,Manipur,24.738975,93.882541
+24,IND,India,Meghalaya,25.536934,91.278882
+25,IND,India,Mizoram,23.309381,92.83822
+26,IND,India,Nagaland,26.06702,94.470302
+27,IND,India,Odisha,20.505428,84.418059
+28,IND,India,Puducherry,11.882658,78.86498
+29,IND,India,Punjab,30.841465000000003,75.40879
+30,IND,India,Rajasthan,26.583423,73.847973
+31,IND,India,Sikkim,27.571671,88.472712
+32,IND,India,Tamil Nadu,11.006091,78.400624
+33,IND,India,Telangana,18.1124,79.0193
+34,IND,India,Tripura,23.746783,91.743565
+35,IND,India,Unknown,,
+36,IND,India,Uttar Pradesh,26.925425,80.560982
+37,IND,India,Uttarakhand,30.156447,79.197608
+38,IND,India,West Bengal,23.814082,87.979803
+0,ITA,Italy,,41.8719,12.5674
+1,ITA,Italy,Abruzzo,42.35122196,13.39843823
+2,ITA,Italy,Basilicata,40.63947052,15.80514834
+3,ITA,Italy,Calabria,38.90597598,16.59440194
+4,ITA,Italy,Campania,40.83956555,14.25084984
+5,ITA,Italy,Emilia-Romagna,44.49436681,11.3417208
+6,ITA,Italy,Friuli Venezia Giulia,45.6494354,13.76813649
+7,ITA,Italy,Lazio,41.89277044,12.48366722
+8,ITA,Italy,Liguria,44.41149315,8.9326992
+9,ITA,Italy,Lombardia,45.46679409,9.190347404
+10,ITA,Italy,Marche,43.61675973,13.5188753
+11,ITA,Italy,Molise,41.55774754,14.65916051
+12,ITA,Italy,P.A. Bolzano,46.49933453,11.35662422
+13,ITA,Italy,P.A. Trento,46.06893511,11.12123097
+14,ITA,Italy,Piemonte,45.0732745,7.680687483
+15,ITA,Italy,Puglia,41.12559576,16.86736689
+16,ITA,Italy,Sardegna,39.21531192,9.110616306
+17,ITA,Italy,Sicilia,38.11569725,13.362356699999998
+18,ITA,Italy,Toscana,43.76923077,11.25588885
+19,ITA,Italy,Umbria,43.10675841,12.38824698
+20,ITA,Italy,Valle d'Aosta,45.73750286,7.320149366
+21,ITA,Italy,Veneto,45.43490485,12.33845213
+0,AUS,Australia,,,
+1,AUS,Australia,Australian Capital Territory,-35.4735,149.0124
+2,AUS,Australia,External territories,,
+3,AUS,Australia,From Diamond Princess,35.4437,139.638
+4,AUS,Australia,Jervis Bay Territory,,
+5,AUS,Australia,New South Wales,-33.8688,151.2093
+6,AUS,Australia,Northern Territory,-12.4634,130.8456
+7,AUS,Australia,Queensland,-28.0167,153.4
+8,AUS,Australia,South Australia,-34.9285,138.6007
+9,AUS,Australia,Tasmania,-41.4545,145.9707
+10,AUS,Australia,Victoria,-37.8136,144.9631
+11,AUS,Australia,Western Australia,-31.9505,115.8605
